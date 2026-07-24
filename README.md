@@ -36,8 +36,8 @@
 
 <p>
 
-<a href="https://github.com/bryansoaresdev">
-<img src="https://img.shields.io/badge/GitHub-BRYANSOARESDEV-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/bryansoares-dev">
+<img src="https://github.com/BryanSoares-dev"/>
 
 </a>
 
